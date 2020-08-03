@@ -1,10 +1,10 @@
-resource_group_name= "e-microservices-test-tf-rg"
+resource_group_name= "xxxxxx"
 location= "East US"
 cluster_name= "e-aks-test-tf"
 agent_count= "3"
 dns_prefix= "e-aks-test-tf"
 vnet_name= "e-aks-test-vnet-tf"
-vnet_subnet_id= "/subscriptions/9672c944-8c9b-46ee-ae77-d6b1f943fbc0/resourceGroups/e-microservices-test-tf-rg/providers/Microsoft.Network/virtualNetworks/e-aks-test-vnet-tf/subnets/e-aks-test-snet-tf"
+vnet_subnet_id= "xxxxx"
 subnet_name= "e-aks-test-snet-tf"
 address_space= [ "10.225.0.0/16" ]
 subnet_address_space= "10.225.0.0/16"
